@@ -1,2 +1,1 @@
-install ract native expo-cli using `n
-pm install -g expo-cli`
+install ract native expo-cli using `npm install -g expo-cli`
